@@ -1,7 +1,7 @@
 import requests
 import time
 
-apiKey  = "41bd08f5-d160-46a6-aaeb-7a8657165baf"
+apiKey  = "e71f4128-0eeb-4e7a-bec7-f00be861e1a8"
 webhook  = "https://discord.com/api/webhooks/1487307771236978708/Aj7r4gSjrMEmwPJE6_oESoiVeYeuVgtgV5QKK7YRnKNI5VvvBu9hShwp8QCfnWmTiPmj"
 secondsBetween    = 120
 minVolume = 1000
